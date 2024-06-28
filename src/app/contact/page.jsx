@@ -1,4 +1,3 @@
-'use client';
 export const metadata = {
   title: 'Contact',
   description: 'This is contact page.',
