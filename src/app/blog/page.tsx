@@ -24,6 +24,10 @@ export default async function BlogPage() {
       <section className="mb-16 mt-0 space-y-8 md:mt-20">
         <SearchBar />
         <CategoryFilter allCategories={allCategories} />
+        <blockquote className="opacity-50">
+          &quot;Behind the art, the math is crazy&quot; - I didn&apos;t said so.
+          <br/> &quot;Why people always want attention?&quot; - I said so.
+        </blockquote>
       </section>
       <PostsGrid allPosts={allPosts} />
     </>

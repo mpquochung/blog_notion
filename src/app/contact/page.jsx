@@ -12,18 +12,21 @@ import {
   PhoneIcon
 } from "@heroicons/react/24/outline";
 
-
-
 export default function ContactPage() {
   return(
     <>
       <h1 className="mt-12 text-center text-3xl font-bold">About me</h1>
-      <div className="flex flex-col grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="flex flex-col grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 mt-10">
         <FlipCard data = {quoc}/>
+        <p className="text-lg"> 
+          I am an undergraduate student. Scholar part-time, Arsenal fan full-time, Dreamer sometimes. Welcome to my blog. Let&apos;s go!
+          <br/> 
+          <br/>
+          I am writing this blog to share the knowledge I have gained, mainly about Machine Learning and AI models. The math involved can be challenging, but I will strive to make it easier for you to understand from a beginner&apos;s perspective. Be patient, take your time, and enjoy! I hope you find it helpful.
+        </p>
       </div>
       <h1 className="mt-8 text-center text-3xl font-bold">Contact</h1>
       <Container>
-        {/* Contact form and information goes here */}
         <div className="text-center">
           <p className="text-lg">I am open to work.</p>
         </div>

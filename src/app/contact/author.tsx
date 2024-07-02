@@ -3,5 +3,5 @@ export  const quoc = {
     email:'maphquochung@gmail.com',
     info: 'Student at NEU',
     position: 'Data Scientist Intern at nowhere',
-    url: 'https://natural-rhubarb-e01.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4aa398d4-2e92-48b7-92f9-4d87362fab14%2F31a8467e-a6a2-499c-9285-9665c70570f5%2Fanhthe.jpg?table=block&id=8df51c70-aca2-43ca-b61a-857836c692be&spaceId=4aa398d4-2e92-48b7-92f9-4d87362fab14&width=2000&userId=&cache=v2',
+    url: 'https://file.notion.so/f/f/4aa398d4-2e92-48b7-92f9-4d87362fab14/075c2ca8-14c0-4fdf-9730-63e15860417d/img-NM7zhbC2y1upEee04wxrw.jpeg?id=8e35e655-6990-44a4-98d3-4bc390021bd2&table=block&spaceId=4aa398d4-2e92-48b7-92f9-4d87362fab14&expirationTimestamp=1719921600000&signature=9nztNs5bmdWF0J8dwNTXN_pm89d1bbSBCzuUz2u91eM&downloadName=img-NM7zhbC2y1upEee04wxrw.jpeg',
   }
